@@ -1,0 +1,19 @@
+{
+  "background": "level1/background.png",
+  "tiles": [
+    {
+      "x": 20,
+      "y": 10,
+      "image": "level1/house.png",
+      "width": 304,
+      "height": 304
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "image": "level1/tile.png",
+      "width": 3000,
+      "height": 30
+    }
+  ]
+}
